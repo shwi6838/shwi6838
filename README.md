@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=Shane%20Wierl&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Human%20centered%20developer%20building%20awesome%20things.&descSize=16&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=Shane%20Wierl&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Human%20centered%20developer%20building%20apps%20for%20authentic%20connection.&descSize=16&descAlignY=52" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/shwi6838?label=Follow&style=social)](https://github.com/shwi6838) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=shwi6838&color=58a6ff&style=flat-square)
 
